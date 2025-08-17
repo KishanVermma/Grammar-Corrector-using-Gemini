@@ -1,7 +1,7 @@
 # ✨ AI Grammar Corrector
 
 An AI-powered web app that automatically corrects grammar and spelling mistakes using **Google Gemini AI API**.  
-Built with **Node.js, Express, and EJS**.
+Built with **Node.js, Express,Bootstrap and EJS**.
 
 ---
 
